@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Coin Tracking",
-    "slug": "cryptoapp",
+    "slug": "cointrackingapp",
     "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -37,8 +37,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "b611fb69-dfe0-430d-a3bf-3d49a3abf033"
+        "projectId": "a0ccd0b4-9d3b-4f69-bca8-5f1983896bcf"
       }
-    }
+    },
+    "owner": "md_mursaleen"
   }
 }
