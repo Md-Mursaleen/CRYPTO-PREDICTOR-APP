@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "1017811191585",
     "project_id": "crypto-tracker-app-4dc8d",
-    "storage_bucket": "crypto-tracker-app-4dc8d.appspot.com"
+    "storage_bucket": "crypto-tracker-app-4dc8d.firebasestorage.app"
   },
   "client": [
     {
@@ -14,19 +14,19 @@
       },
       "oauth_client": [
         {
-          "client_id": "1017811191585-h3ks2q0uvghesdau5gdbsjlo19ptr4ev.apps.googleusercontent.com",
+          "client_id": "1017811191585-8in6bvg80uc4tnqn1u3tq31udr427gea.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.cointracking.app",
-            "certificate_hash": "138398de43d181d7aca19ba6d882e80b9f74bab0"
+            "certificate_hash": "9ef3df221fff04c3803ce2c6d9d796f964b0b7fd"
           }
         },
         {
-          "client_id": "1017811191585-tqqltkck0cm11hnvuoc4m5ujtutc8na6.apps.googleusercontent.com",
+          "client_id": "1017811191585-ucuru37ge4qjhiddrbolsoi7era8idck.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.cointracking.app",
-            "certificate_hash": "77b47f12d5d8090903272fff7663eff3bc113b00"
+            "certificate_hash": "e28bc5e7274e02bf1980fa01e61e470fc0559b33"
           }
         },
         {

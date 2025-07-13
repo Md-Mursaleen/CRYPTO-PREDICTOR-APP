@@ -29,7 +29,7 @@ const MenuDrawer = ({ closeDrawer }) => {
     useEffect(() => {
         const fetchUserData = async () => {
             try {
-                const signedUser = await AsyncStorage.getItem('SignedUserData');
+                const signedUser = await AsyncStorage.getItem('signedUserData');
 
                 if (signedUser) {
                     const signedUserData = JSON.parse(signedUser);

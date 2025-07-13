@@ -10,7 +10,7 @@ const SplashScreen = () => {
     useEffect(() => {
         const hasShownWelcome = async () => {
             const hasShownWelcome = await AsyncStorage.getItem('hasShownWelcome');
-            const signedUserData = await AsyncStorage.getItem('SignedUserData');
+            const signedUserData = await AsyncStorage.getItem('signedUserData');
             const signedData = JSON.parse(signedUserData);
             if (hasShownWelcome === null) {
                 navigation.dispatch(
